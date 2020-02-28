@@ -25,18 +25,18 @@ The Web client will be an MVC application. The project has already been initiali
 
 ## Requirements
 
-[] Recipies must be rendered in a card like format
-[] Recipies have a favorite icon that changes color if it is already favorited
-[] A user should not have to re-login everytime they refresh the page
-[] The main page shows all recipies regardless of whether you are logged in or not
-[] When not logged in do not show a favorite icon
-[] Users have an option to view only the recipies they have created
-[] Users have an option to view only the recipies they have favorited
-[] Users can only edit their own recipies
-[] Users can only delete their own recipies
-[] Recipies use a soft delete (never destroy gradmas recipie)
-[] Users can add comments to recipies
-[] Recipies show the creators name and image
-[] Comments show the creators name and image
-[] Comments show the creators name and image
-[] Recipies have a like count
+- [ ] Recipies must be rendered in a card like format
+- [ ] Recipies have a favorite icon that changes color if it is already favorited
+- [ ] A user should not have to re-login everytime they refresh the page
+- [ ] The main page shows all recipies regardless of whether you are logged in or not
+- [ ] When not logged in do not show a favorite icon
+- [ ] Users have an option to view only the recipies they have created
+- [ ] Users have an option to view only the recipies they have favorited
+- [ ] Users can only edit their own recipies
+- [ ] Users can only delete their own recipies
+- [ ] Recipies use a soft delete (never destroy gradmas recipie)
+- [ ] Users can add comments to recipies
+- [ ] Recipies show the creators name and image
+- [ ] Comments show the creators name and image
+- [ ] Comments show the creators name and image
+- [ ] Recipies have a like count
